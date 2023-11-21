@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "homenet_ui",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "homenet_ui (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "homenet_ui (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "designsystem_ui",
+            "cwd": "designsystem_ui",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "designsystem_ui (profile mode)",
+            "cwd": "designsystem_ui",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "designsystem_ui (release mode)",
+            "cwd": "designsystem_ui",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
